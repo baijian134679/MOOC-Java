@@ -1,2 +1,3 @@
 # MOOC-Java
-C program language
+Java program language
+"Hello, World!"
